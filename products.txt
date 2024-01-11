@@ -1,0 +1,59 @@
+Id: 1
+Name: Apple
+Price: 2.49
+Category: Fruits
+isNew: false
+
+Id: 2
+Name: Laptop
+Price: 899.99
+Category: Electronics
+isNew: true
+
+Id: 3
+Name: Spinach
+Price: 1.29
+Category: Vegetables
+isNew: true
+
+Id: 4
+Name: Headphones
+Price: 49.99
+Category: Electronics
+isNew: false
+
+Id: 5
+Name: Chicken Breast
+Price: 6.99
+Category: Meat
+isNew: true
+
+Id: 6
+Name: Coffee Maker
+Price: 39.99
+Category: Appliances
+isNew: false
+
+Id: 7
+Name: Blue Jeans
+Price: 29.99
+Category: Clothing
+isNew: true
+
+Id: 8
+Name: Tomatoes
+Price: 0.99
+Category: Vegetables
+isNew: false
+
+Id: 9
+Name: Smartwatch
+Price: 129.99
+Category: Electronics
+isNew: true
+
+Id: 11
+Name: Peach
+Price: 6
+Category: Fruits
+isNew: true
