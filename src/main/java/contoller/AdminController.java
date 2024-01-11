@@ -42,8 +42,8 @@ public class AdminController {
                     }
                     case 3 -> StoreController.openShop();
                     default -> {
-                        UIHelper.sleep(1, "Please enter from 1-4 only!");
-                        throw new WrongInputException("Please enter from 1-4 only!\n But was: " + choice);
+                        UIHelper.sleep(1, "Please enter from 1-3 only!");
+                        throw new WrongInputException("Please enter from 1-3 only!\n But was: " + choice);
                     }
                 }
             }
